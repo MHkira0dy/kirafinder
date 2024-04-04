@@ -1,4 +1,4 @@
-[Dowanload libcurl.txt](https://github.com/o337/kirafinder/files/14877480/Dowanload.libcurl.txt)# kirafinder
+# kirafinder
 
 This tool is a multithreaded subdomain scanner written in C++ that utilizes libcurl for making HTTP requests.
 
@@ -7,8 +7,7 @@ This tool is a multithreaded subdomain scanner written in C++ that utilizes libc
 
 # Installation and run
 
-[Uplosudo apt update
-apt install libcurl4-openssl-devading Dowanload libcurl.txt…]()
+
 
 
 
