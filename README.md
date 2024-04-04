@@ -10,3 +10,7 @@ This tool is a multithreaded subdomain scanner written in C++ that utilizes libc
 
 
 
+[Dowanload libcurl.txt](https://github.com/o337/kirafinder/files/14877393/Dowanload.libcurl.txt)
+sudo apt update
+
+apt install libcurl4-openssl-dev
