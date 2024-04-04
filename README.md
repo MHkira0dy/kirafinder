@@ -7,7 +7,10 @@ This tool is a multithreaded subdomain scanner written in C++ that utilizes libc
 
 # Installation and run
 
-
+/*
+sudo apt update
+apt install libcurl4-openssl-dev
+*/
 
 
 
