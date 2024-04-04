@@ -16,8 +16,13 @@ https://github.com/o337/kirafinder.git
 
 # How to run the tool
 
+To run the provided code, you will need:
 
-
+A C++ compiler installed on your system, such as GCC or Clang.
+The libcurl library installed on your system. You can typically install it using your package manager. For example, on Debian-based systems, you can use :
+```
+apt install libcurl4-openssl-dev
+```
 
 
 
