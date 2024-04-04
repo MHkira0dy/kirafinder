@@ -21,6 +21,7 @@ The main function parses command-line arguments to get the domain name and DNS f
 It reads subdomains from the specified DNS file and pushes them into the subdomains queue.
 It retrieves the number of available CPU cores to determine the number of threads to spawn.
 Threads are created, each executing the checkURL function.
+
 The main thread waits until all subdomains are processed by the worker threads using the condition variable cv.
 Once all threads finish their tasks, the program exits.
 Usage:
@@ -34,3 +35,7 @@ Error Handling:
 
 The program performs basic error handling such as checking for the existence of files and correct command-line arguments.
 Overall, this tool is designed to scan a list of subdomains for a given domain in parallel using multiple threads, making HTTP requests and printing out any subdomains that return a successful response.
+
+
+
+![image](https://github.com/o337/kirafinder/assets/126006169/80e3abd8-647d-4f7d-99f1-cfe015f96525)
