@@ -1,2 +1,3 @@
 # kirafinder
-This Tool For Brut Force Subdomains From dns_list
+
+This tool is a multithreaded subdomain scanner written in C++ that utilizes libcurl for making HTTP requests.
