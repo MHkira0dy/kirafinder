@@ -23,6 +23,15 @@ The libcurl library installed on your system. You can typically install it using
 ```
 apt install libcurl4-openssl-dev
 ```
+A text file containing a list of subdomains (one per line) that you want to check.
+Here are the steps to compile and run the code:
+
+Save the provided code into a file, let's say main.cpp.
+
+Compile the code using a C++ compiler along with the libcurl library. For example, you can use the following command:
+```
+g++ -o checker main.cpp -lcurl -std=c++11 -pthread
+```
 
 
 
