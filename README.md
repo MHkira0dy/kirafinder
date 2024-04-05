@@ -9,6 +9,7 @@ This tool is a multithreaded subdomain scanner written in C++ that utilizes libc
 
 ```
 sudo apt update
+apt upgrade
 ```
 ```
 git clone https://github.com/MHkira0dy/kirafinder.git
