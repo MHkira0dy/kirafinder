@@ -70,7 +70,7 @@ int main(int argc, char *argv[]) {
         return 0;
     }
 
-    std::cout <<"          [didicas lga3 drari ta3 the hacker news bdarija]" << std::endl;
+    std::cout <<"          [###################kirafinder###################]" << std::endl;
     std::cout << "                             @MHkira0dy    " << std::endl; // Print your name
     
     if (argc != 4 || std::string(argv[1]) != "-d") {
