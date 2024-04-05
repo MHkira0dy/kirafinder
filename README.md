@@ -13,6 +13,7 @@ apt upgrade
 ```
 ```
 git clone https://github.com/MHkira0dy/kirafinder.git
+cd kirafinder
 ```
 
 # How to run the tool
